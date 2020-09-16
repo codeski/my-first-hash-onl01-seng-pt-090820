@@ -46,3 +46,7 @@ def adding
   shipping_manifest
 
 end
+
+def shipping_manifest
+  
+end
